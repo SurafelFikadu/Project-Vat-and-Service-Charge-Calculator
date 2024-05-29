@@ -6,4 +6,4 @@ I make this app specially for cafe and restaurant customers that is why I includ
 
 An image of family in resturant
 
-![family in resturant]("./src/img/bg-img-1.jpg");
+![family in resturant](./src/img/bg-img-1.jpg);
