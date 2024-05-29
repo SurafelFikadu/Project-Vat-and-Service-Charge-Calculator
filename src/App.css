@@ -1,0 +1,97 @@
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Wellcome page */
+section {
+  height: 100vh;
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Animation for the background image */
+@keyframes change {
+  0% {
+    background-image: url("./src/img/bg-img-1.jpg");
+  }
+
+  33% {
+    background-image: url("./src/img/bg-img-2.jpg");
+  }
+
+  64% {
+    background-image: url("./src/img/bg-img-3.jpg");
+  }
+
+  100% {
+    background-image: url("./src/img/bg-img-4.jpg");
+  }
+}
+
+section {
+  animation: change 7s infinite linear;
+}
+
+#h1 {
+  color: rgb(210, 214, 190);
+  background-color: black;
+  opacity: 0.7;
+  text-align: center;
+  padding: 5px;
+  border-radius: 7px;
+}
+
+/* Animation for text color change */
+@keyframes changeColor {
+  0% {
+    color: green;
+  }
+
+  33% {
+    color: yellow;
+  }
+
+  64% {
+    color: red;
+  }
+
+  100% {
+    color: green;
+  }
+}
+
+section #h1 span {
+  color: yellow;
+}
+
+#h1 {
+  animation: changeColor 7s infinite linear;
+}
+
+/* style total */
+#total-amount {
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: white;
+  background: black;
+  text-align: left;
+}
+
+#total-str {
+  font-size: 1.2rem;
+  margin-bottom: 3px;
+}
+
+/* Utlities */
+.hidden {
+  display: none;
+}
