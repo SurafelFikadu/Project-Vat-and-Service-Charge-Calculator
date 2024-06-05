@@ -44,6 +44,7 @@ section {
   text-align: center;
   padding: 5px;
   border-radius: 7px;
+  animation: changeColor 7s infinite linear;
 }
 
 /* Animation for text color change */
@@ -68,10 +69,6 @@ section {
 section #h1 span {
   color: yellow;
 }
-
-/* #h1 {
-  animation: changeColor 7s infinite linear;
-} */
 
 /* style total */
 #total-amount {
