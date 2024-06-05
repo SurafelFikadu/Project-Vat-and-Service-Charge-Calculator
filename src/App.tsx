@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import $ from "jquery";
 import JqCss from "./jqComponent/jqCss";
+import "./index.css";
 
 // Display Calculator
 function displayCalculator() {
