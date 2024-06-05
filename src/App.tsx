@@ -103,7 +103,7 @@ function App() {
           </div>
           <div className="label-input">
             <label htmlFor="total-amount" id="total-str">
-              The total value is(=)
+              The total value =
             </label>
             <h4 id="total-amount"></h4>
           </div>
