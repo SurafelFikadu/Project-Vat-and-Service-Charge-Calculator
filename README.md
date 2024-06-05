@@ -25,10 +25,8 @@ looking the menu.
 
 ## PROJECT
 
-''' A photo taken from the project with '''
 ![project photo 1](./src/img/bg-img-6.png)
 
-''' A photo taken from the app '''
 ![project photo with answer](./src/img/bg-img-7.png)
 
 <!-- This is a simple web app that used to calculate the total amount incuding vat and service charge if there is no service charge you can put on the value of service charge 0 or none.
