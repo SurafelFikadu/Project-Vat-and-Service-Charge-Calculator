@@ -31,7 +31,7 @@ looking the menu.
 
 ## link to project
 
-you can find the project link [here](https://vat-service-calculator-alx-portfolio.netlify.app)
+You can find the project App link [here](https://vat-service-calculator-alx-portfolio.netlify.app)
 
 ## Technology used in this project
 
