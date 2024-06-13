@@ -35,6 +35,8 @@ you can find the project link [here](https://vat-service-calculator-alx-portfoli
 
 ## Technology used in this project
 
+### This are the technology that I used in the project
+
 - HTML5
 - CSS3
 - JavaScript
