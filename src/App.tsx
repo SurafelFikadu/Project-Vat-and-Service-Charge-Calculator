@@ -28,9 +28,9 @@ function App() {
     setAmount(e.target.value);
   };
 
-  // Dom
   let totalAmount: any = document.getElementById("total-amount");
 
+  // Function for calculate button
   const calculate = () => {
     let Total;
     let Amount = Number(amount);
@@ -50,6 +50,7 @@ function App() {
     }
   };
 
+  // Function for clear button
   const clear = () => {
     totalAmount!.textContent = "";
     setAmount("");

@@ -29,16 +29,21 @@ looking the menu.
 
 ![project photo with answer](./src/img/bg-img-7.png)
 
-<!-- This is a simple web app that used to calculate the total amount incuding vat and service charge if there is no service charge you can put on the value of service charge 0 or none.
+## link to project
 
-I make this app specially for cafe and restaurant customers that is why I included service charge. -->
+you can find the project link [here](https://vat-service-calculator-alx-portfolio.netlify.app)
 
-### Technology and Architecture
+## Technology used in this project
 
-### Core Algorithm and Code snippet
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Bootstrap
+- JQuery
+- TypeScript
+  ![technolgy](./src/img/technology.png)
 
-### Discussion of Process Collaboration and timeline
+## Licence
 
-### Challenges and overcome
-
-### Learning about technical as a result of this project
+MIT License

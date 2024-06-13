@@ -15,7 +15,6 @@ section {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  animation: change 7s infinite linear;
 }
 
 /* Animation for the background image */
